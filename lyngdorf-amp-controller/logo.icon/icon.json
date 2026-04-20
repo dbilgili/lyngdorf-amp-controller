@@ -1,0 +1,61 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.91965,0.43378,0.00000,1.00000",
+      "display-p3:0.62334,0.29487,0.00605,1.00000"
+    ],
+    "orientation" : {
+      "start" : {
+        "x" : 0.5,
+        "y" : 0
+      },
+      "stop" : {
+        "x" : 0.5,
+        "y" : 0.7
+      }
+    }
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode" : "lighten",
+          "fill" : "none",
+          "glass-specializations" : [
+            {
+              "value" : false
+            },
+            {
+              "idiom" : "square",
+              "value" : false
+            }
+          ],
+          "hidden" : false,
+          "image-name" : "Group 2.svg",
+          "name" : "Group 2",
+          "position" : {
+            "scale" : 2,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
